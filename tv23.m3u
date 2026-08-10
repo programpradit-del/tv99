@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="workpoint23" tvg-name="CH23 HD" tvg-logo="https://wikimedia.org",CH23 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn145.stm.trueid.net/p202aes/d83_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=687137b4b8&did=azRqdUd1Q2toV1l6YWtOVm9uakFIWUNGeU9ib3IxWHg&mpass=xIzk1Udav7tv_-fRi87B_yPxFbiLPsNKobj91wJGhbphGNSaFJo-uqqAAwzyhCjJEikhB2jl7BN2Pm5HFI2dP_pmysCKljYX5A94cWNI3EH2uPTOuXR_C1eeP-Ktj4kyICAX2JGm3mjEADeGq19b6SDW&sid=2ed52f748a&rt=1786342786&ds=25200&tk=VFZiGyhKxxEYv0G3NfmRhomEmsCGNz9KTnHWk-tugMc
+https://cdn138.stm.trueid.net/p202aes/d83_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=6e65efa793&did=RmY1WG5aMkFoSjlhaWw0cUs3N0RfdmNmbXdFQXJKdlM&mpass=8z6Ch_D7gJanwF1lNg5UHzw28MuYj0HewHePG1hrB_hlj2b9pykst6RAKS2HBfpn_SO9ruJnAZxKmLEL0gaErsG0l8-qJjZNlP8QhN7bFe4AkRaAkNndzovwKkMume9kICBpp83Xxsl0s6pPkHweXIWC&sid=092367cfeb&rt=1786365098&ds=25200&tk=go6MKZAR7Elhv4yhktmu1NiqlC4Paa975i8hg8_fe5g
 #EXTM3U
 #EXTINF:-1 tvg-id="32" tvg-name="CH32 HD" tvg-logo="https://wikimedia.org",CH32 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
