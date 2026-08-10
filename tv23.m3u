@@ -15,3 +15,11 @@ https://cdn139.stm.trueid.net/p101aes/c03_multi_w_auto_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CH7 HD" tvg-logo="https://wikimedia.org",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn764.stm.trueid.net/p301aes/c07_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=452396ee14&did=RmY1WG5aMkFoSjlhaWw0cUs3N0RfdmNmbXdFQXJKdlM&mpass=_5v3v6GqdtwUsL1CVJc2ZpynmhhTZ-Z_K83SQ9NX2Ms5J4eU0Qb4fXWCZWl5vDPeUoFQqrkrKKMEXO990hV_0i0Xl69kwMkyvhgrEj3EtUbC-Ar5nZiqKGslpBjtq6otICCDOsbFz0N6Jp_cgnMdZIFA&sid=9d8f96a6c6&rt=1786363555&ds=25200&tk=BpCw5yLx_jOZEgpPqsL8S9PriVKidiSGYUd7ADR2IFM
+#EXTM3U
+#EXTINF:-1 tvg-id="7" tvg-name="ONE 31" tvg-logo="https://wikimedia.org",CH7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn138.stm.trueid.net/p101dai/d56_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=db8afd7333&did=RmY1WG5aMkFoSjlhaWw0cUs3N0RfdmNmbXdFQXJKdlM&mpass=KYfVYIDo-xDVs3dmBrp5MCKBLcM4jRj6-1GyE-8JWOhgAy6VIm9W39fbVmjsmrNyzkO0Jy8sWm8ALqtO51YGeF1NJ2cvvTo4DXmSXC6n7EBvMs4Ni6bL2KEnS63OUIU-ICDgs7ULs_-DERaW9jCpsoMC&sid=6b23b803ff&rt=1786364318&ds=25200&tk=82JkKP-IAawYnh8JbGFHp4-bZ4UDk8N99vsN5q0BKLU
+#EXTM3U
+#EXTINF:-1 tvg-id="7" tvg-name="True4U" tvg-logo="https://wikimedia.org",CH7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn140.stm.trueid.net/p101dai/207_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=4332c738d0&did=RmY1WG5aMkFoSjlhaWw0cUs3N0RfdmNmbXdFQXJKdlM&mpass=uWXoR1YS2ir8v4yGO-ZJXLwUhJMBWYbzSo5rponeopo7PVP_p1QLMmHzWtZsoL8OIjeLfHx_7uNKcVAw7bZJaLfjofr4Ux38ZnyT6v2_gADNiF6-0FicwfPZ5PKX5v-fICAP_UXC40lpa9m5L42gCSZV&sid=2cfc3da15d&rt=1786364494&ds=25200&tk=pIiqCQiwuw_A_BxnNwBjSgKKH4ExjpduObL1HIN2MF8
