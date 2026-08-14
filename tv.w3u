@@ -4,10 +4,11 @@
   "image": "https://imgur.com",
   "stations": [
     {
-      "name": "Amarin TV HD",
+      "name": "Amarin TV HD (เปิดบนบราวเซอร์)",
       "image": "https://imgur.com",
       "url": "https://kicksball.com",
-      "isWeb": true
+      "isWeb": false,
+      "openExternal": true
     }
   ]
 }
