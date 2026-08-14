@@ -1,0 +1,13 @@
+{
+  "name": "My Live TV",
+  "author": "IPTV",
+  "image": "https://imgur.com",
+  "stations": [
+    {
+      "name": "Amarin TV HD",
+      "image": "https://imgur.com",
+      "url": "https://kicksball.com",
+      "isWeb": true
+    }
+  ]
+}
