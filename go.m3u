@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="amarintv" tvg-name="Amarin TV HD (เปิดบนบราวเซอร์)" tvg-logo="https://imgur.com",Amarin TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://kicksball.com
