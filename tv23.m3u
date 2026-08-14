@@ -29,7 +29,7 @@ https://cdn144.stm.trueid.net/p401aes/t530_multi_w_auto_tidapp.smil/playlist.m3u
 #EXTM3U
 #EXTINF:-1 tvg-id="amarintv" tvg-name="Amarin TV HD" tvg-logo="https://imgur.com",Amarin TV HD
 #EXTWISEPLAY:https://kicksball.com
-https://kicksball.com/tv/truesports-3-76
+https://kicksball.com
 #EXTM3U
 #EXTINF:-1 tvg-id="7" tvg-name="AmarinTV" tvg-logo="https://wikimedia.org",AmarinTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
