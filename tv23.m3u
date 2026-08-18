@@ -3,6 +3,10 @@
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2890/playlist.m3u8
 #EXTM3U
+#EXTINF:-1 tvg-chno="184" group-title="⚽ กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",🔵 True Sport 7
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2829/playlist.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="workpoint23" tvg-name="CH23 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Thai_PBS_Logo_2016.svg/1280px-Thai_PBS_Logo_2016.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail",Thai PBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
