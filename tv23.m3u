@@ -43,8 +43,8 @@ https://cdn144.stm.trueid.net/p401aes/t530_multi_w_auto_tidapp.smil/playlist.m3u
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/6328/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Thairath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/3840px-Thairath_TV32.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail",ไทยรํฐ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn146.stm.trueid.net/p201dai/d05_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=124d9e9c31&did=N3h2YTdaOFJ4TnN0NkZfbURjWldweURIQjlCZk84QzU&mpass=mZgyrIpP90pTAQXOdajx9qYSHET7QJ68Tk8HpgV-GlcT4eUneDioviEMlmCJK0EUDuHKT9U0uNdfu76HTpO4enPaxE6fhkLT93RSe9jgVIjg9df15qSPn5Jf-Q74mgeaICDfPRmccplSkyKx9FYTupum&sid=425e0df701&rt=1787047566&ds=25200&tk=sjw7Xh3KJ5cp15SPUaVsvdusH7VvHq5ahJe2e3I3UZo
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/6330/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png"group-title="UK| SKY STORE HD",PREMIERE 1
 http://procdnnet.eu:80/play/live.php?mac=00:1A:79:7D:BA:ED&stream=1095797&extension=ts&play_token=3M1lDjJSEh
