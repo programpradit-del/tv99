@@ -13,7 +13,7 @@ https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/ey
 #EXTM3U
 #EXTINF:-1 tvg-id="3" tvg-name="CH3 HD" tvg-logo="https://images.seeklogo.com/logo-png/26/2/3-logo-png_seeklogo-269501.png",CH3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn761.stm.trueid.net/p101aes/c03_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=54d2eb24c0&did=RmY1WG5aMkFoSjlhaWw0cUs3N0RfdmNmbXdFQXJKdlM&mpass=VKtbI-6v98QgxMxeM_03x0sqwAL-a9tcVJ9MBG2WrbsTTfXV8thx2pOSXWE3ha51NWIBz7AYk2uSKojGjJCOgWXecfC5wzHrmm-PHD293WSK2h9Sl0n5X0PKeEzO-o6tICD9inZFSRf41NkE1BEK0NIZ&sid=65fdb7e8fe&rt=1786365155&ds=25200&tk=t_Z977XEujedQo_u4M7iPute5_z9e_t2mnu8eThHq2s
+https://cdn762.stm.trueid.net/p101aes/c03_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=6bc6ac6aa1&did=N3h2YTdaOFJ4TnN0NkZfbURjWldweURIQjlCZk84QzU&mpass=50dk_pVtP8TV2bqK-F0b4Adf_GNOB9NOX2Ej7MEQMsMpQujk6gSMYTx7xpALmhW2k7eqTEGPLP4mW5y0erDirTq2YfyOsZWyu7UaYS5MgtOYthk0Dui33mAczjJ16XixICDQcyfl4uzl9o3gyYnTN-lm&sid=3a43c20ff4&rt=1787047252&ds=25200&tk=QGP9ThKgEueQlaDtL2E4aHsO_ZJzVlSUSxjNKr_ASqM
 #EXTM3U
 #EXTINF:-1 tvg-id="7" tvg-name="CH7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
