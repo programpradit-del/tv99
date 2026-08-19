@@ -12,17 +12,17 @@ https://godlivetv.io/madoball/2829/playlist.m3u8
 #EXTINF:-1 tvg-chno="19" group-title="🇹🇭 TVไทย" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYZQZQs1trVxAwXJfA7AUMcwg17WervxDTyASta_PpQ&s=10",🟡 Workpoint TV
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/6335/playlist.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CH5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",CH5 HD
+#EXTINF:-1 tvg-id="5" group-title="🇹🇭 TVไทย" tvg-name="CH5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",CH5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="ONE 31" tvg-logo="https://static.wikia.nocookie.net/gmmtv/images/8/82/One31_Logo_2.png/revision/latest?cb=20231203001323",ONE 31
+#EXTINF:-1 tvg-id="31" group-title="🇹🇭 TVไทย" tvg-name="ONE 31" tvg-logo="https://static.wikia.nocookie.net/gmmtv/images/8/82/One31_Logo_2.png/revision/latest?cb=20231203001323",ONE 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CH3 HD" tvg-logo="https://images.seeklogo.com/logo-png/26/2/3-logo-png_seeklogo-269501.png",CH3 HD
+#EXTINF:-1 tvg-id="3" group-title="🇹🇭 TVไทย" tvg-name="CH3 HD" tvg-logo="https://images.seeklogo.com/logo-png/26/2/3-logo-png_seeklogo-269501.png",CH3 HD
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/7348/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="7" tvg-name="CH7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png",CH7 HD
+#EXTINF:-1 tvg-id="7" group-title="🇹🇭 TVไทย" tvg-name="CH7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTM3U
@@ -30,18 +30,18 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/.../logos/NETHERLANDNEW/EUROSPORT1.png",EUROSPORT 1 4K
 http://cam.access.ly:80/play/live.php?mac=00:1B:79:18:6F:AF&stream=1283303&extension=ts&play_token=RlEyjnLRVn
 #EXTM3U
-#EXTINF:-1 tvg-chno="18" group-title="🇹🇭 ไทย" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/True4U2.png/revision/latest?cb=20160521054555",🟠 True4U
+#EXTINF:-1 tvg-chno="18" group-title="🇹🇭 TVไทย" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/True4U2.png/revision/latest?cb=20160521054555",🟠 True4U
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/6337/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="7" tvg-name="Top New" tvg-logo="https://wikimedia.org",Top New
+#EXTINF:-1 tvg-id="7" group-title="🇹🇭 TVไทย" tvg-name="Top New" tvg-logo="https://wikimedia.org",Top New
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn144.stm.trueid.net/p401aes/t530_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=a6ebc0f2fc&did=RmY1WG5aMkFoSjlhaWw0cUs3N0RfdmNmbXdFQXJKdlM&mpass=znZ-lzqYAMDCm1ueYNYhs_zFl8wXjBpngXB-ng0QcsIAFoe8dB91KKnLjxzoqMTq32txTFJtX5VwtqcUd4Y07uBTHlByQZdWGfT91E9bJJPlDgjPnUcfcL2YQPdL94j8ICDnwS_ax8Gq9GRpEosyGQA1&sid=284f88dd9d&rt=1786365487&ds=25200&tk=BMkrwTSs_lVQYpH4Z23wcJrNiUhxuFPfS4HMSP5PUBQ
 #EXTM3U
-#EXTINF:-1 tvg-id="amarintv" tvg-name="Amarin TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ayFc32DWdu3OIyMEoZTzJuM_ipOdGWOeo8pJpvRRXQ&s",Amarin TV HD
+#EXTINF:-1 tvg-id="amarintv" group-title="🇹🇭 TVไทย" tvg-name="Amarin TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ayFc32DWdu3OIyMEoZTzJuM_ipOdGWOeo8pJpvRRXQ&s",Amarin TV HD
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/6328/playlist.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="Thairath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/3840px-Thairath_TV32.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail",ไทยรํฐ
+#EXTINF:-1 tvg-id="7" group-title="🇹🇭 TVไทย" tvg-name="Thairath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/3840px-Thairath_TV32.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail",ไทยรํฐ
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/6330/playlist.m3u8
 #EXTM3U
