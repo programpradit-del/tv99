@@ -43,6 +43,9 @@ https://p1.cdn.vet/live/ch39/i/ch39i.m3u8?sid=b5yYTY4MTUyNzA3Mzc3YmQ5MzAxNwNjA4O
 #EXTINF:-1 tvg-id="25" tvg-name="PPTV HD" group-title="🇹🇭 TVไทย" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/PPTV_logo_2026.svg/3840px-PPTV_logo_2026.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yYmFiY2Y0NjU0OGEyNjZlMDY3YgOTQ3NTkxNjMxYTExNzRi
+#EXTINF:-1 tvg-id="30" tvg-name="MCOT HD" group-title="🇹🇭 TVไทย" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/MCOT_Ch9_Logo.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=original",MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png"group-title="UK| SKY STORE HD",PREMIERE 1
 http://procdnnet.eu:80/play/live.php?mac=00:1A:79:7D:BA:ED&stream=1095797&extension=ts&play_token=3M1lDjJSEh
