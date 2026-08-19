@@ -2,11 +2,9 @@
 #EXTINF:-1 tvg-chno="180" group-title="⚽ กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",🟡 True Sport 2
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2891/playlist.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-chno="181" group-title="⚽ กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",🟣 True Sport 3
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2890/playlist.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-chno="184" group-title="⚽ กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",🔵 True Sport 7
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2829/playlist.m3u8
@@ -14,15 +12,12 @@ https://godlivetv.io/madoball/2829/playlist.m3u8
 #EXTINF:-1 tvg-chno="19" group-title="🇹🇭 ไทย" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYZQZQs1trVxAwXJfA7AUMcwg17WervxDTyASta_PpQ&s=10",🟡 Workpoint TV
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/6335/playlist.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="5" tvg-name="CH5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",CH5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="31" tvg-name="ONE 31" tvg-logo="https://static.wikia.nocookie.net/gmmtv/images/8/82/One31_Logo_2.png/revision/latest?cb=20231203001323",ONE 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="3" tvg-name="CH3 HD" tvg-logo="https://images.seeklogo.com/logo-png/26/2/3-logo-png_seeklogo-269501.png",CH3 HD
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/7348/playlist.m3u8
