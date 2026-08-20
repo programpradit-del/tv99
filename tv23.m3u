@@ -25,9 +25,13 @@ https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/ey
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/7348/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7" group-title="🇹🇭 TVไทย" tvg-name="CH7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png",CH7 HD
+#EXTINF:-1 tvg-id="35" group-title="🇹🇭 TVไทย" tvg-name="CH7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
+#EXTINF:-1 tvg-id="8" group-title="🇹🇭 TVไทย" tvg-name="CH8 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBMc_ZVduP7VqvoJpVFZg0Ec7WzYOTEnVfUHVrjBWDlQ&s",🔴 CH 8
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/497/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/.../logos/NETHERLANDNEW/EUROSPORT1.png",EUROSPORT 1 4K
 http://cam.access.ly:80/play/live.php?mac=00:1B:79:18:6F:AF&stream=1283303&extension=ts&play_token=RlEyjnLRVn
