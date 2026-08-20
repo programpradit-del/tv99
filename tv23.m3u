@@ -33,7 +33,8 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 http://cam.access.ly:80/play/live.php?mac=00:1B:79:18:6F:AF&stream=1283303&extension=ts&play_token=RlEyjnLRVn
 
 #EXTINF:-1 tvg-chno="18" group-title="🇹🇭 TVไทย" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/True4U2.png/revision/latest?cb=20160521054555",🟠 True4U
-https://true4u-p4ljv2.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1787157561&x_ark_path_prefix=%2Flive%2F&x_ark_signature=hAoAM2-JWcKBEbKavuDnVA
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/6337/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7" group-title="🇹🇭 TVไทย" tvg-name="Top New" tvg-logo="https://wikimedia.org",Top New
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
