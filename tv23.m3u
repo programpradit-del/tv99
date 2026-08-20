@@ -63,6 +63,12 @@ https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/pla
 #EXTINF:-1 tvg-id="3" tvg-name="Thai PBS" group-title="🇹🇭 TVไทย" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGQrRO9Dd_6Kn3_d84-e51UqVhJdsU-Bxvz_i1dJWLUA&s=10",Thai PBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-chno="48" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1877.jpg",🟡 True Film 1
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1877/playlist.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png"group-title="UK| SKY STORE HD",PREMIERE 1
 http://procdnnet.eu:80/play/live.php?mac=00:1A:79:7D:BA:ED&stream=1095797&extension=ts&play_token=3M1lDjJSEh
