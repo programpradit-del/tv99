@@ -43,9 +43,9 @@ https://cdn144.stm.trueid.net/p401aes/t530_multi_w_auto_tidapp.smil/playlist.m3u
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/6328/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7" group-title="🇹🇭 TVไทย" tvg-name="Thairath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/3840px-Thairath_TV32.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail",ไทยรํฐ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://p1.cdn.vet/live/ch39/i/ch39i.m3u8?sid=b5yYTY4MTUyNzA3Mzc3YmQ5MzAxNwNjA4ODU1ZjRmYmFiNmIw
+#EXTINF:-1 tvg-id="32" group-title="🇹🇭 TVไทย" tvg-name="Thairath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/3840px-Thairath_TV32.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail",🔵 ไทยรัฐ TV HD
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/6330/playlist.m3u8
 
 #EXTINF:-1 tvg-id="25" tvg-name="PPTV HD" group-title="🇹🇭 TVไทย" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/PPTV_logo_2026.svg/3840px-PPTV_logo_2026.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail",🟣 PPTV HD
 #EXTVLCOPT:http-referrer=https://madoball.com
