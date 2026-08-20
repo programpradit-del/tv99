@@ -68,6 +68,30 @@ https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="48" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1877.jpg",🟡 True Film 1
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1877/playlist.m3u8
+#EXTINF:-1 tvg-chno="49" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1915.jpg",🟣 True Film Asia
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1915/playlist.m3u8
+#EXTINF:-1 tvg-chno="50" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1875.jpg",🟢 True Movie Hits
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1875/playlist.m3u8|referer=https://madoball.com/
+#EXTINF:-1 tvg-chno="51" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1874.jpg",🔴 True Thai Film
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1874/playlist.m3u8
+#EXTINF:-1 tvg-chno="43" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2815.jpg",🟣 CINEMAX
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2815/playlist.m3u8
+#EXTINF:-1 tvg-chno="44" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2820.jpg",🟢 HBO
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2820/playlist.m3u8
+#EXTINF:-1 tvg-chno="45" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2816.jpg",🔴 HBO Family
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2816/playlist.m3u8
+#EXTINF:-1 tvg-chno="46" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2819.jpg",🔵 HBO Hits
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2819/playlist.m3u8
+#EXTINF:-1 tvg-chno="47" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2818.jpg",🟠 HBO Signature
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2818/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png"group-title="UK| SKY STORE HD",PREMIERE 1
