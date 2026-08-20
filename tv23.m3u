@@ -15,9 +15,12 @@ https://godlivetv.io/madoball/2889/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2888/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="184" group-title="⚽ กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",🔵 True Sport 7
+#EXTINF:-1 tvg-chno="184" group-title="⚽ กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",🔵 True Sport 7A
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2829/playlist.m3u8
+#EXTINF:-1 tvg-chno="184" group-title="⚽ กีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",🔴 True Sport 7B
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2829_backup/chunks.m3u8?url=aHR0cHM6Ly9sc3YxLmlud3N0cmVhbS5jb20vdHJhbnNjb2Rlcl9GMS90cnVlc3BvcnRzN19pbndpcHR2LnN0cmVhbS9jaHVua3MubTN1OD9uaW1ibGVzZXNzaW9uaWQ9MTMwNjgwMDEmd21zQXV0aFNpZ249YzJWeWRtVnlQV1F5Vm1sbVJGVXdUV3BuTVUxdWVIZFpWelZ1VGxSSlBTWnpaWEoyWlhKZmRHbHRaVDA0THpJd0x6SXdNallnTWpvMU9Ub3pNaUJCVFNab1lYTm9YM1poYkhWbFBXbENVRTVJVTJoeEwzVk5XVmR2YURKUE5XTmFZbEU5UFNaMllXeHBaRzFwYm5WMFpYTTlNZz09
 #EXTM3U
 #EXTINF:-1 tvg-id="23" tvg-name="Workpoint" group-title="🇹🇭 TVไทย" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYZQZQs1trVxAwXJfA7AUMcwg17WervxDTyASta_PpQ&s=10",Workpoint 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
