@@ -8,9 +8,12 @@ https://godlivetv.io/madoball/2891/playlist.m3u8
 #EXTINF:-1 tvg-chno="180" group-title="⚽ กีฬา" group-logo="https://static.wikia.nocookie.net/gmmtv/images/8/82/One31_Logo_2.png/revision/latest?cb=20231203001323" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",🔵 True Sport 2B
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2891/chunks.m3u8?url=aHR0cHM6Ly9sc3YxLmlud3N0cmVhbS5jb20vdHJhbnNjb2Rlcl9GMS90cnVlc3BvcnRzMl9pbndpcHR2LnN0cmVhbS9jaHVua3MubTN1OD9uaW1ibGVzZXNzaW9uaWQ9MTMwNzc4OTgmd21zQXV0aFNpZ249YzJWeWRtVnlQV1F5Vm1sbVJGVXdUV3BuTVUxdWVIZFpWelZ1VGxSSlBTWnpaWEoyWlhKZmRHbHRaVDA0THpJd0x6SXdNallnTlRveU9Eb3pNaUJCVFNab1lYTm9YM1poYkhWbFBVTTVURkJYUVhNMlZtWXpLMGQyVVZCNlZEVkplbmM5UFNaMllXeHBaRzFwYm5WMFpYTTlNZz09
-#EXTINF:-1 tvg-chno="181" group-title="⚽ กีฬา"  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",🟣 True Sport 3
+#EXTINF:-1 tvg-chno="181" group-title="⚽ กีฬา"  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",🟣 True Sport 3A
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2890/playlist.m3u8
+#EXTINF:-1 tvg-chno="181" group-title="⚽ กีฬา"  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",🟣 True Sport 3B
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2890/chunks.m3u8?url=aHR0cHM6Ly9sc3Y0Lmlud3N0cmVhbS5jb20vdHJhbnNjb2Rlcl9GMS90cnVlc3BvcnRzM19pbndpcHR2LnN0cmVhbS9jaHVua3MubTN1OD9uaW1ibGVzZXNzaW9uaWQ9NDEwNDIyNDgmd21zQXV0aFNpZ249YzJWeWRtVnlQV1F5Vm1sbVJGVXdUV3BuTVUxdWVIZFpWelZ1VGxSSlBTWnpaWEoyWlhKZmRHbHRaVDA0THpJd0x6SXdNallnTmpvd05qb3dOQ0JCVFNab1lYTm9YM1poYkhWbFBWaGlNbUoxVEhjelNtRjRNWEZHS3pObGVXdDJhbmM5UFNaMllXeHBaRzFwYm5WMFpYTTlNZz09
 #EXTINF:-1 tvg-chno="182" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/2889.jpg",🟢 True Sport 4
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2889/playlist.m3u8
