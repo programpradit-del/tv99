@@ -1,13 +1,5 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="amarin" tvg-name="AmarinTV HD" tvg-logo="https://imgur.com",AmarinTV HD
-#EXTWISEPLAY:https://kicksball.com
-https://kicksball.com
-
-#EXTINF:-1 tvg-id="ch8" tvg-name="CH8" tvg-logo="https://imgur.com",CH8
-#EXTWISEPLAY:https://kicksball.com
-https://kicksball.com
-
-#EXTINF:-1 tvg-id="gmm25" tvg-name="GMM25" tvg-logo="https://imgur.com",GMM25
-#EXTWISEPLAY:https://kicksball.com
+#extwiseplay:https://kicksball.com
 https://kicksball.com
