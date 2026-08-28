@@ -6,7 +6,8 @@
       "name": "AmarinTV HD",
       "image": "https://imgur.com",
       "url": "https://kicksball.com",
-      "isWeb": true
+      "isWeb": true,
+      "webType": "embed"
     }
   ]
 }
