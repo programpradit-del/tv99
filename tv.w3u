@@ -1,10 +1,9 @@
 {
-  "name": "My Live TV",
+  "name": "KicksBall TV (Player)",
   "author": "IPTV",
-  "image": "https://imgur.com",
   "stations": [
     {
-      "name": "True Sports 3",
+      "name": "AmarinTV HD",
       "image": "https://imgur.com",
       "url": "https://kicksball.com",
       "isWeb": true
