@@ -4,11 +4,10 @@
   "image": "https://imgur.com",
   "stations": [
     {
-      "name": "Amarin TV HD (https://kicksball.com/tv/truesports-3-76)",
+      "name": "True Sports 3",
       "image": "https://imgur.com",
-      "url": "https://kicksball.com/tv/truesports-3-76",
-      "isWeb": false,
-      "openExternal": true
+      "url": "https://kicksball.com",
+      "isWeb": true
     }
   ]
 }
