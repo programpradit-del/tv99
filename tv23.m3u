@@ -56,7 +56,9 @@ http://cam.access.ly:80/play/live.php?mac=00:1B:79:18:6F:AF&stream=1283303&exten
 https://godlivetv.io/madoball/6337/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7" group-title="🇹🇭 TVไทย" tvg-name="Top New" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLzIaVlm-p3C_sIcrhwwSI-B78rg_iLxHWH_l68ZUBqQ&s=10",🔵 Top News
-#EXTVLCOPT:http-referrer=https://madoball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
 
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1730/playlist.m3u8
