@@ -48,8 +48,8 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/497/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/.../logos/NETHERLANDNEW/EUROSPORT1.png",EUROSPORT 1 4K
-http://cam.access.ly:80/play/live.php?mac=00:1B:79:18:6F:AF&stream=1283303&extension=ts&play_token=RlEyjnLRVn
+#EXTINF:-1 tvg-id="63" group-title="🇹🇭 TVไทย" tvg-logo="https://i.postimg.cc/GtRYFgq8/IMG-2429.png", Chiangrai Channel 
+http://live.thaitvstream.com/play/chiangrai/index.m3u8
 
 #EXTINF:-1 tvg-chno="18" group-title="🇹🇭 TVไทย" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/True4U2.png/revision/latest?cb=20160521054555", True4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
