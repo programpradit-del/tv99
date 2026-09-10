@@ -64,8 +64,7 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 https://godlivetv.io/madoball/1730/playlist.m3u8
 
 #EXTINF:-1 tvg-id="amarintv" group-title="🇹🇭 TVไทย" tvg-name="Amarin TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ayFc32DWdu3OIyMEoZTzJuM_ipOdGWOeo8pJpvRRXQ&s",Amarin TV HD
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/6328/playlist.m3u8
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 
 #EXTINF:-1 tvg-id="32" group-title="🇹🇭 TVไทย" tvg-name="Thairath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/3840px-Thairath_TV32.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail",🔵 ไทยรัฐ TV HD
 #EXTVLCOPT:http-referrer=https://madoball.com
