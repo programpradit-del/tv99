@@ -69,7 +69,7 @@ https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="32" group-title="🇹🇭 TVไทย" tvg-name="Thairath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/3840px-Thairath_TV32.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail",🔵 ไทยรัฐ TV HD
 #EXTVLCOPT:http-referrer=https://madoball.com
-https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8
+https://aatv-y123.com/thairath/index.m3u8
 
 #EXTINF:-1 tvg-id="25" tvg-name="PPTV HD" group-title="🇹🇭 TVไทย" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/PPTV_logo_2026.svg/3840px-PPTV_logo_2026.svg.png?utm_source=th.wikipedia.org&utm_campaign=index&utm_content=thumbnail",🟣 PPTV HD
 #EXTVLCOPT:http-referrer=https://madoball.com
